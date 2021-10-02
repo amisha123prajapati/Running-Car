@@ -1,0 +1,29 @@
+
+#con{ background-image: url("side.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 550px;
+    justify-content: center;
+    align-items: flex-start;
+    display: flex;
+
+   }
+    
+#car{
+    background-image:url("./road.jpg");
+   
+    
+    
+}
+.btn{
+    background-color: yellow;
+    border-color: gray;
+    font-size: 30px;
+    
+}
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
